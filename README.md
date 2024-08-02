@@ -17,4 +17,4 @@
 
 Все эти методы были реализованы с использованием стандартных библиотек OpenCV и обученных нейросетей на платформе OpenVINO (версия 2020.4) от компании Intel. Программа была написана на языке программирования Python (версия 3.7.4).
 
-[Информация о моделях (в конце файла)](https://github.com/MariaBozhko/SummerHolidays2020/blob/main/main.py)
+[Информация о моделях (в конце файла)](https://github.com/MariaBozhko/SummerHolidays2020/blob/main/main.py#L1182)
